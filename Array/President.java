@@ -1,4 +1,4 @@
-package ArrayListDemonstration;
+package Array;
 
 public class President {
     private int number; 
